@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am an undergrad CS student at McGill University.
+
 Je suis étudiant en informatique à l'Université McGill.
