@@ -1,4 +1,4 @@
-## Bonjour Hi !
+## Bonjour !
 
 <!--
 **pclava/pclava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergrad CS student at McGill University.
+I am an undergrad CS student at McGill University, interested in programming languages and low-level programming.
 
-Je suis étudiant en informatique à l'Université McGill.
+Je suis étudiant en informatique à l'Université McGill, intéressé par les langages de programmation et la programmation de bas niveau.
